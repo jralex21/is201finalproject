@@ -1,0 +1,50 @@
+.common {
+    /* background-color: #cccccc; */
+    position: absolute;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+}
+.leftmenu {
+    top: 114px;
+    left: 5px;
+    width: 440px;
+    bottom: 49px;
+    z-index: 1;
+}
+.mainbody {
+    top: 114px;
+    left: 464px;
+    right: 464px;
+    bottom: 49px;
+}
+.rightmenu {
+    top: 114px;
+    right: 5px;
+    width: 440px;
+    bottom: 49px;
+}
+.footer {
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    font-size: 8;
+    text-align: center;
+    padding-top: 15px;
+    position: fixed;
+    color: #ffffff;
+}
+.subheader {
+    float: right;
+}
+.sectiontitle {
+    text-align: center;
+}

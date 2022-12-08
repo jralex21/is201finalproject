@@ -1,0 +1,28 @@
+body{
+    color: white;
+    font-family: sans-serif;
+    
+}
+.topbanner {
+    font-size: 20px;
+    float: right;
+    
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.background {
+    background-image: url(../images/space_background1.jpg);
+    background-position: right top;
+    background-size: cover;
+}
+.title {
+    padding-top: 15px;
+    padding-left: 660px;
+    font-size: 20px;
+}
+iframe {
+    padding-left: 30px;
+    border: none;
+}
